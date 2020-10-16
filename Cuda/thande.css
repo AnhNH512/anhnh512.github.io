@@ -69,6 +69,7 @@ header{
 	background:#663366;
 }
 .thienthan {
+	line-height:3rem;
 	padding-top:239px;
 	color:#ffffff;
 	text-align:center;
@@ -82,6 +83,7 @@ header{
 	display:inline-block;
 }
 .borders{
+	line-height:1.63rem;
 	text-decoration:none;
 	padding:25px 86px 25px 82px;
 	color:#ffffff;
@@ -93,18 +95,28 @@ header{
 /*Main*/
 main {
 	background:#00cc99;
-	padding-top:111px;
 }
 .menu {
 	color:#fff;
 	text-align:center;	
 }
 .menua {
+	padding-top:119px;
+	line-height:1.86rem;
 	font-size:40pt;
+	margin-bottom:22px;
+}
+.manu-c {
+	padding:2px;
+	border-radius:1px;
+	background:#14a58c;
+	text-align:center;
+	margin:0 523px;
 }
 .menub {
+	line-height:1.4rem;
 	font-size:18pt;
-	padding-top:48px;
+	padding-top:23px;
 }
 /*ảnh content2*/
 .flag {
@@ -124,28 +136,33 @@ main {
 	float:left;
 }
 /* nội dung conttent 2*/
-.five-tow{
+.skill{
 	color:#f7f3ea;
 	float:left;
 	font-size:1.5rem;
 }
-.five-tow-a{
+.skill-a{
+	line-height:1.125rem;
 	padding:62px 0 0 92px;
 	float:left;
 }
-.five-tow-b{
+.skill-b{
+	line-height:1.125rem;
 	padding:62px 0 0 182px;
 	float:left;
 }
-.five-tow-c{
+.skill-c{
+	line-height:1.125rem;
 	padding:62px 0 0 158px;
 	float:left;
 }
-.five-tow-d{
+.skill-d{
+	line-height:1.125rem;
 	padding:62px 0 0 113px;
 	float:left;
 }
 .name {
+	line-height:1.5rem;
 	color:#fff;
 	float:left;
 	font-size:1rem;
@@ -174,12 +191,22 @@ main {
 	padding-top:120px;
 }
 .menu-aa {
+	line-height:1.9rem;
 	text-align:center;
 	font-size:2.6rem;
 	color:#3c4761;
+	padding-bottom:22px;
+}
+.gach-ngang {
+	padding:2px;
+	border-radius:1px;
+	background:#c8d9e5;
+	text-align:center;
+	margin:0 523px;
 }
 .menu-bb {
-	padding-top:53;
+	line-height:1.67rem;
+	padding-top:24px;
 	font-size:1.2rem;
 	color:#3c4761;
 	text-align:center;
@@ -197,16 +224,19 @@ main {
 	border-radius:200px;
 }
 .boss-b{
+	line-height:1.125rem;
 	padding-top:41px;
 	color:#27283d;
 	font-size:1.5rem;
 }
 .boss-c{
+	line-height:1.125rem;
 	padding-top:15px;
 	color:#30bae7;
 	font-size:1rem;
 }
 .boss-d{
+	line-height:1.5rem;
 	padding-top:25px;
 	color:#3c4761;
 	font-size:1rem;
@@ -257,16 +287,26 @@ main {
 	display:inline;
 }
 .content-abb {
+	line-height:1.86rem;
 	text-align:center;
 	color:#3c4761;
 	font-size:2.5rem;
 	padding-top:120px;
+	padding-bottom:22px
+}
+.gach-ngang-a {
+	padding:2px;
+	border-radius:1px;
+	background:#c8d9e5;
+	text-align:center;
+	margin:0 523px;
 }
 .content-abc {
+	line-height:1.625rem;
 	text-align:center;
 	color:#3c4761;
 	font-size:1.1rem;
-	padding-top:50px;
+	padding-top:24px;
 	padding-bottom:84px;
 }
 .circle-a {
@@ -282,6 +322,7 @@ main {
 	padding-top:80px;
 }
 .font-aa{
+	line-height:1.125rem;
 	float:left;
 	width:25%;
 	text-align:center;
@@ -299,11 +340,21 @@ main {
 	text-align:center;
 }
 .one-b {
+	line-height:1,86rem;
 	padding-top:120px;
 	font-size:2.5rem;
+	padding-bottom:22px;
+}
+.one-one {
+	padding:2px;
+	border-radius:1px;
+	background:#e5c37f;
+	text-align:center;
+	margin:0 523px;
 }
 .one-c {
-	padding-top:49px;
+	line-height:1.625rem;
+	padding-top:24px;
 	font-size:1.2rem;
 }
 /*title*/
@@ -316,6 +367,7 @@ main {
 	display:inline-block;
 }
 .title-b{
+	line-height:1.2rem;
 	color:#393939;
 	font-size:1.12rem;
 	text-decoration:none;
@@ -324,6 +376,7 @@ main {
 	display:inline-block;	
 }
 .title-bb{
+	line-height:1.2rem;
 	color:#393939;
 	font-size:1.12rem;
 	text-decoration:none;
@@ -388,6 +441,7 @@ main {
     float:left;
 }
 .word-a{
+	line-height:1.2rem;
 	padding-top:37px;
 	font-size:1.2rem;
 	color:#393939;
@@ -395,6 +449,7 @@ main {
 	padding-bottom:63px;
 }
 .word-b{
+	line-height:1.2rem;
 	padding-top:37px;
 	font-size:1.2rem;
 	color:#393939;
@@ -414,6 +469,7 @@ main {
     float:left;
 }
 .word-aa{
+	line-height:1.2rem;
 	padding-top:37px;
 	font-size:1.2rem;
 	color:#393939;
@@ -421,6 +477,7 @@ main {
 	padding-bottom:83px;
 }
 .word-bb{
+	line-height:1.2rem;
 	padding-top:37px;
 	font-size:1.2rem;
 	color:#393939;
@@ -434,6 +491,7 @@ main {
 	display:inline-block;
 }
 .border-b {
+	line-height:1.63rem;
 	display:inline-block;
 	padding:28px 55px 27px 55px;
 	text-align:center;
@@ -446,14 +504,24 @@ main {
 	background:#d74680;
 }
 .orage-a {
+	line-height:1.86rem;
 	padding-top:119px;
-	color:2.5rem;
+	font-size:2.5rem;
 	text-align:center;
 	color:#ffffff;
+	padding-bottom:22px;
+}
+.orage-orage {
+	padding:2px;
+	border-radius:1px;
+	background:#b73c6d;
+	text-align:center;
+	margin:0 523px;
 }
 .orage-b {
-	padding-top:47px;
-	color:1.2rem;
+	line-height:1.625rem;
+	padding-top:23px;
+	font-size:1.2rem;
 	text-align:center;
 	color:#ffffff;
 }
@@ -475,20 +543,22 @@ main {
 .apple-watch {
 	display:inline-block;
 	margin-top:82px;
-	
 }
 .apple-c {
+	line-height:1.95rem;
 	padding-left:38px;
 	color:#ffffff;
 	font-size:1.3rem;
 }
 .apple-d {
+	line-height:1.625rem;
 	padding-top:27px;
 	font-size:1.5rem;
 	color:#ffffff;
 	padding-left:38px;
 }
 .apple-e {
+	line-height:1.625rem;
 	font-size:1.2rem;
 	color:#ffdd99;
 	padding-left:38px;
@@ -514,17 +584,20 @@ main {
 	
 }
 .apple-cs{
+	line-height:1.95rem;
 	padding-left:38px;
 	color:#ffffff;
 	font-size:1.3rem;
 }
 .apple-ds {
+	line-height:1.625rem;
 	padding-top:27px;
 	font-size:1.5rem;
 	color:#ffffff;
 	padding-left:38px;
 }
 .apple-es {
+	line-height:1.625rem;
 	font-size:1.2rem;
 	color:#ffdd99;
 	padding-left:38px;
@@ -549,17 +622,20 @@ main {
 	
 }
 .apple-cc{
+	line-height:1.95rem;
 	padding-left:38px;
 	color:#ffffff;
 	font-size:1.3rem;
 }
 .apple-dd {
+	line-height:1.625rem;
 	padding-top:27px;
 	font-size:1.5rem;
 	color:#ffffff;
 	padding-left:38px;
 }
 .apple-ee {
+	line-height:1.625rem;
 	font-size:1.2rem;
 	color:#ffdd99;
 	padding-left:38px;
@@ -585,17 +661,20 @@ main {
 	
 }
 .apple-cr{
+	line-height:1.95rem;
 	padding-left:38px;
 	color:#ffffff;
 	font-size:1.3rem;
 }
 .apple-dr {
+	line-height:1.625rem;
 	padding-top:27px;
 	font-size:1.5rem;
 	color:#ffffff;
 	padding-left:38px;
 }
 .apple-er {
+	line-height:1.625rem;
 	font-size:1.2rem;
 	color:#ffdd99;
 	padding-left:38px;
@@ -610,41 +689,51 @@ main {
 	text-align:center;
 }
 .forcus-a {
+	padding-bottom:22px;
+	line-height:1.86rem;
 	padding-top:120px;
 	font-size:2.5rem;
 }
+.forcus-forcus {
+	padding:2px;
+	border-radius:1px;
+	background:#273a71;
+	text-align:center;
+	margin:0 523px;
+}
 .forcus-b {
-	padding-top:50px;
+	line-height:1.625rem;
+	padding-top:23px;
 	font-size:1.2rem;
 	padding-bottom:76px;
 }
-.label {
-	text-align:center;
+/*label*/
+.snake-a .snake-b {
+	width:50%;
+	float:left;
+	position:relative;
 }
-#your-name {
-	padding:22px 270px 20px 23px;
+.snake-c{
+	margin-left:10px;
+	padding-left:20px;
+	color:#fff;
+	font-size:20px;
+}
+.snake-d{
+	width:80%;
 	background:#273a71;
+	padding:15px 25px;
 	border-radius:5px;
-	color:#ffffff;
-	margin-bottom:27px;
 }
-#your-names {
-	border-radius:5px;
-	padding:22px 270px 20px 23px;
+#snake-e{
+	padding:15px 25px;
+	margin:30px 25px 0px;
+	color:#fff;
 	background:#273a71;
-	text-decoration:none;
-	color:#ffffff;
-	margin-bottom:27px;
-}
-#text {
-	background:#273a71;
-	padding:24px 720px 158px 55px;
-	text-decoration:none;
+	width:91%;
+	height:120px;
+	max-width:100%;
 	border-radius:5px;
-	/* text-align:center; */
-}
-.messenger {
-	text-align:center;
 }
 .click {
 	margin-top:62px;
@@ -655,6 +744,7 @@ main {
 	margin-bottom:163px;
 }
 .click-a {
+	line-height:1.63rem;
 	display:inline-block;
 	padding:28px 83px 28px 83px;
 	text-align:center;
@@ -699,6 +789,9 @@ main {
 	display:inline-block;
 	line-height:1.86rem;
 	color:#ffffff;
+}
+.click-sv:hover{
+	color:#66FFFF;
 }
 .click-vv:hover{
 	color:#66FFFF;
