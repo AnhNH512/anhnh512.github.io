@@ -120,20 +120,28 @@ main {
 }
 /*ảnh content2*/
 .flag {
-	padding:82px 0 0 96px;
+	padding-top:87px;
 	float:left;
+	text-align:center;
+	width:25%;
 }
 .pencil {
-	padding:82px 0 0 175px;
+	padding-top:87px;
+	text-align:center;
 	float:left;
+	width:25%;
 }
 .setting {
-	padding:82px 0 0 146px;
+	padding-top:87px;
 	float:left;
+	text-align:center;
+	width:25%;
 }
 .tenlua {
-	padding:82px 0 0 155px;
+	padding-top:87px;
 	float:left;
+	text-align:center;
+	width:25%;
 }
 /* nội dung conttent 2*/
 .skill{
@@ -764,7 +772,8 @@ main {
 	background:#344b8e;
 }
 .click-ss{
-	padding-top:48px;
+	margin-bottom:48px;
+	margin-top:48px;
 	list-style:none;
 	text-align:center;
 }
@@ -796,3 +805,4 @@ main {
 .click-vv:hover{
 	color:#66FFFF;
 }
+/*end footer*/
