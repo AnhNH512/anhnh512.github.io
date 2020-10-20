@@ -70,17 +70,18 @@ header{
 }
 .thienthan {
 	line-height:3rem;
-	padding-top:239px;
+	padding-top:145px;
 	color:#ffffff;
 	text-align:center;
 	font-size:3rem;
-	padding-bottom:277px;
+	padding-bottom:63px;
 }
 .border {
-	margin:52px 423px 145px 424px;
+	margin:0px 423px 145px 424px;
 	background:#ff6633;
 	border-radius:5px;
 	display:inline-block;
+	box-shadow:0px 4px #c86a40;
 }
 .borders{
 	line-height:1.63rem;
@@ -90,7 +91,10 @@ header{
 	font-size:1.125rem;
 	text-align:center;
 	display:inline-block;
-	
+}
+.borders:hover{
+	background:#da7548;
+	border-radius:5px;
 }
 /*Main*/
 main {
@@ -118,6 +122,12 @@ main {
 	font-size:18pt;
 	padding-top:23px;
 }
+.menuc {
+	line-height:1.4rem;
+	font-size:18pt;
+	padding-top:11px;
+}
+	
 /*ảnh content2*/
 .flag {
 	padding-top:87px;
@@ -380,7 +390,6 @@ main {
 	font-size:1.12rem;
 	text-decoration:none;
 	list-style:none;
-	text-align:center;
 	display:inline-block;	
 }
 .title-bb{
@@ -389,7 +398,6 @@ main {
 	font-size:1.12rem;
 	text-decoration:none;
 	list-style:none;
-	text-align:center;
 	display:inline-block;
 }
 .title-b:first-child{
@@ -432,7 +440,7 @@ main {
 	background:#ffffff;
 }
 .title-bb:hover{
-	background:#fffff;
+	background:#ffffff;
 }
 /*laptop*/
 .laptop-a {
@@ -497,6 +505,7 @@ main {
 	background:#17c2a4;
 	border-radius:5px;
 	display:inline-block;
+	box-shadow:0px 4px #1b9882;
 }
 .border-b {
 	line-height:1.63rem;
@@ -506,6 +515,10 @@ main {
 	color:#ffffff;
 	font-size:1.1rem;
 	text-decoration:none;
+}
+.border-b:hover {
+	background:#25a18b;
+	border-radius:5px;
 }
 /*content-d*/
 .content-d {
@@ -715,7 +728,6 @@ main {
 	font-size:1.2rem;
 	padding-bottom:76px;
 }
-/*label*/
 .snake-a .snake-b {
 	width:50%;
 	float:left;
@@ -743,7 +755,9 @@ main {
 	max-width:100%;
 	border-radius:5px;
 }
+
 .click {
+	box-shadow:0 4px #14a58c;
 	margin-top:62px;
 	background:#17c2a4;
 	border-radius:5px;
